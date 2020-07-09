@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Profile
+
+An empty stack developer from China, programming as a hobby. Student.
+
+I am interested in...:
+* Kotlin(JVM)
+* Rust
+* Scala
+* Haskell
+
+## About my ID? 
+
+Hoshino("星野" or "ほしの" in Japanese) is a Japanese last name, and Tented("天忆" in Chinese) is a Chinese first name (even "Tented" has no any meaning in English though).
