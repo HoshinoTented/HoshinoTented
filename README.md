@@ -28,3 +28,7 @@ I am interested in...:
 ## About my ID? 
 
 Hoshino("星野" or "ほしの" in Japanese) is a Japanese last name, and Tented("天忆" in Chinese) is a Chinese first name (even "Tented" has no any meaning in English though).
+
+## Game?
+
+I like **Minecraft**(prefer adding some mods, such as GregTech and Botania), **Houkai Impact 3rd**.and **Baba is you**.
