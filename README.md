@@ -29,4 +29,4 @@ Hoshino("星野" or "ほしの" in Japanese) is a Japanese last name, and Tented
 
 ## Game?
 
-I like **Minecraft**(prefer adding some mods, such as GregTech and Botania), **Houkai Impact 3rd**.and **Baba is you**.
+I like **Minecraft**(prefer adding some mods, such as GregTech or Botania), **Houkai Impact 3rd** and **Azur Land**.
