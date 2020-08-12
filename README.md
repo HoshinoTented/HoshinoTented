@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Profile
 
-An empty stack developer from China, programming as a hobby. Student.
+An empty stack developer from China, programming as a hobby. Kid.
 
 I am interested in...:
 * Kotlin(Functional Programming, JVM, **Maybe... fun?**)
