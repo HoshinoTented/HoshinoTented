@@ -18,10 +18,17 @@ Here are some ideas to get you started:
 An empty stack developer from China, programming as a hobby. Kid.
 
 I am interested in...:
-* Kotlin(Functional Programming, JVM, **Maybe... fun?**)
-* Rust(Functional Programming, Native, Lifetime, Efficient, **FUN**)
-* Scala(Functional Programming, JVM, **FUN**)
-* Haskell(Pure Functional Programming, **FUN**)
+
+* Kotlin (Functional Programming, JVM, **Maybe... fun?**)
+* Rust (Functional Programming, Native, Lifetime, Efficient, **FUN**)
+* Scala (Functional Programming, JVM, **FUN**)
+* Haskell (**Pure Functional Programming**, **FUN**)
+
+I hate...:
+
+* C++ (UB)
+* Python (**DYNAMICCCCCCCCCCCCCCCCCCC**)
+* JavaScript (**DYNAMIC**, but I hate Python more, because JavaScript has a number of **MAGIC**)
 
 ## About my ID? 
 
