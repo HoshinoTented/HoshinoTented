@@ -19,10 +19,11 @@ An empty stack developer from China, programming as a hobby. Kid.
 
 I am interested in...:
 
-* Kotlin (Functional Programming, JVM, **Maybe... fun?**)
+* Kotlin (Functional Programming, JVM, a little fun)
 * Rust (Functional Programming, Native, Lifetime, Efficient, **FUN**)
 * Scala (Functional Programming, JVM, **FUN**)
 * Haskell (**Pure Functional Programming**, **FUN**)
+* Assembly (**Low Level, Native, Hard to Use**)
 
 I hate...:
 
@@ -36,4 +37,4 @@ Hoshino("星野" or "ほしの" in Japanese) is a Japanese last name, and Tented
 
 ## Game?
 
-I like **Minecraft**(prefer adding some mods, such as GregTech or Botania), ~~**Houkai Impact 3rd**~~, OSU!, Genshin and **Azur Land**.
+I like **Minecraft**(prefer adding some mods, such as GregTech or Botania), Houkai Impact 3rd, **OSU!**, **Genshin** and Azur Land.
