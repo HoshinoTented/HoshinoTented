@@ -22,7 +22,7 @@ Definition compare : comparer := fun p₀ p₁ =>
   | _ => eq
   end.
 
-Fact cmp_not_symm : forall (p₀ p₁ : comparable_human), 
+Fact cmp_not_comm : forall (p₀ p₁ : comparable_human), 
   compare p₀ p₁ = win <-> compare p₁ p₀ = lose.
 Proof.
   split.
